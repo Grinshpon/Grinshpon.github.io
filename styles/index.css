@@ -20,8 +20,8 @@ body {
   max-height: 2cm;
   min-height: 0.5cm;
   width: 70%;
-  //max-height: 50vh;
-  //border: 1pt solid #f7f7f7;
+  /*max-height: 50vh;
+  border: 1pt solid #f7f7f7; */
 }
 .centered {
     justify-content: center;
@@ -40,7 +40,7 @@ body {
     font-size: large;
     margin: 1cm auto;
     text-align: justify;
-    width: 100%
+    width: 100%;
 }
 .button {
   flex: 1 1 auto;
@@ -71,11 +71,11 @@ body {
 }
 
 *{
-	box-sizing: border-box:
-	color: white;
+	box-sizing: border-box;
+	color: #eaeadd;
 }
 .section{
-  width: 60%;
+  width: 65%;
 	position: relative;
 	border: 2pt solid #eaeadd;
 	border-top: none;
