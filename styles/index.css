@@ -101,7 +101,7 @@ body {
 	left: 0;
 }
 
-@media(max-width: 685px){
+@media(max-width: 768px){
 	.top-border{
 		width: 2%;
 	}
