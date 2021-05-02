@@ -91,7 +91,7 @@ body {
 .top-border{
 	position: absolute;
 	height: 2pt;
-	width: 5%;
+	width: 8%;
 	background-color: #eaeadd;
 }
 .right{
@@ -103,8 +103,11 @@ body {
 
 @media(max-width: 685px){
 	.top-border{
-		width: 18%;
+		width: 2%;
 	}
+  .section {
+    width: 80%;
+  }
 }
 
 .section p{
