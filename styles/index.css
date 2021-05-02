@@ -91,7 +91,7 @@ body {
 .top-border{
 	position: absolute;
 	height: 2pt;
-	width: 10%;
+	width: 8%;
 	background-color: #eaeadd;
 }
 .right{
@@ -106,7 +106,7 @@ body {
 		width: 2%;
 	}
   .section {
-    width: 30%;
+    width: 90%;
   }
   .section p {
     width: 80%;
